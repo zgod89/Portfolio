@@ -9,3 +9,6 @@ I fitted and evaluated many supervised regression models using heavily correlate
 
 ## Examining Consumer Recommendations 
 I performed natural language processing (NLP) feature extraction on an ecommerce clothing reviews dataset. The data was evaluated using K-Means, T-SNE, Spectral clustering, and a few other algorithms. I compared performance of binary classification models predicting consumer recommendation.
+
+## Customer Loyalty 
+This is a quick analysis on a dataset containing categorical and continuous variables, with the goal of predicting whether a customer was in the loyalty program. I approached it as a straightforward classification problem, and found the best performance using a random forest classifier. 
